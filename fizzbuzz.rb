@@ -2,6 +2,10 @@
 # See README.md for instructions on how to do this
 
 def fizz(number)
-  if number 
+  if number / 3 
     return "Fizz"
+end
+
+def buzz(number)
+  if number
 end
